@@ -1,0 +1,45 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/biome",
+    "feat/member",
+    "feat/oauth",
+    "feat/resend",
+    "fix/break-word",
+    "fix/docker-compose-error",
+    "fix/login_configtion",
+    "fix/new-readme",
+    "fix/word-wrapping",
+    "main",
+    "refactor/error_handling",
+    "v0.1.1"
+  ],
+  "parent": {
+    "feat/biome": "main",
+    "feat/member": "main",
+    "feat/oauth": "main",
+    "feat/resend": "main",
+    "fix/break-word": "main",
+    "fix/docker-compose-error": "main",
+    "fix/login_configtion": "main",
+    "fix/new-readme": "main",
+    "fix/word-wrapping": "main",
+    "main": null,
+    "refactor/error_handling": "main",
+    "v0.1.1": "main"
+  },
+  "order": [
+    "main",
+    "feat/biome",
+    "feat/member",
+    "feat/oauth",
+    "feat/resend",
+    "fix/break-word",
+    "fix/docker-compose-error",
+    "fix/login_configtion",
+    "fix/new-readme",
+    "fix/word-wrapping",
+    "refactor/error_handling",
+    "v0.1.1"
+  ]
+}
